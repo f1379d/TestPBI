@@ -1,0 +1,298 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 454.0066573230553,
+            "y": 0
+          },
+          "nodeIndex": "Webometric_2021",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 269
+        },
+        {
+          "location": {
+            "x": 787.3066573230553,
+            "y": 0
+          },
+          "nodeIndex": "Webometric_2020",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 269
+        },
+        {
+          "location": {
+            "x": 1120.6066573230553,
+            "y": 0
+          },
+          "nodeIndex": "Webometric_2019",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 269
+        },
+        {
+          "location": {
+            "x": 1453.9066573230552,
+            "y": 0
+          },
+          "nodeIndex": "Webometric_2018",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 269
+        },
+        {
+          "location": {
+            "x": 1787.2066573230554,
+            "y": 0
+          },
+          "nodeIndex": "Webometric_2017",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 269
+        },
+        {
+          "location": {
+            "x": 2120.506657323055,
+            "y": 0
+          },
+          "nodeIndex": "Webometric_2014",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 269
+        },
+        {
+          "location": {
+            "x": 2453.7066573230554,
+            "y": 0
+          },
+          "nodeIndex": "Webometric_2015",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 269
+        },
+        {
+          "location": {
+            "x": 2787.006657323055,
+            "y": 0
+          },
+          "nodeIndex": "Webometric_2016",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 269
+        },
+        {
+          "location": {
+            "x": 3204.606657323055,
+            "y": 0
+          },
+          "nodeIndex": "Webometric_2012",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 256
+        },
+        {
+          "location": {
+            "x": 3622.106657323055,
+            "y": 0
+          },
+          "nodeIndex": "Webometric_2013",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 256
+        },
+        {
+          "location": {
+            "x": 88.20700770847934,
+            "y": 0
+          },
+          "nodeIndex": "Webometrics",
+          "size": {
+            "height": 256,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 456.3052713373654,
+            "y": 324.73118279569894
+          },
+          "nodeIndex": "GreenMetric_2019",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 889.0052713373652,
+            "y": 324.73118279569894
+          },
+          "nodeIndex": "GreenMetric_2020",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 0,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 84.47726184475823,
+            "y": 324.7311827956989
+          },
+          "nodeIndex": "GreenMetric",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4054.8,
+            "y": 0
+          },
+          "nodeIndex": "URAP_2021",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4920.2,
+            "y": 476.9
+          },
+          "nodeIndex": "URAP",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5352.9,
+            "y": 832.8
+          },
+          "nodeIndex": "URAP_2019",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4487.5,
+            "y": 0
+          },
+          "nodeIndex": "URAP_2020",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5785.6,
+            "y": 0
+          },
+          "nodeIndex": "GreenMetric_2016",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6218.3,
+            "y": 0
+          },
+          "nodeIndex": "GreenMetric_2017",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6651,
+            "y": 0
+          },
+          "nodeIndex": "GreenMetric_2018",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 11.536897329871671,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false
+    },
+    {
+      "ordinal": 1,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [],
+      "name": "Layout 1",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
